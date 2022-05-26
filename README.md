@@ -1,7 +1,7 @@
-# images_conversor
+# Conversor de imagenes
 
-- Convert images from one image type to another
-- Build a CLI tool in Python to help us with the image type conversion
+- Convertir imagenes de un tipo en otro
+- levantando un CLI en Python para ayudarnos a convertir imagenes
 
 Python Library options:
 - Python Image Library  
@@ -10,7 +10,7 @@ Python Library options:
 
 Install all requirements
 ```bash
-    pip install requirements.txt
+    pip install -r requirements.txt
 ```
 
 Run the command
